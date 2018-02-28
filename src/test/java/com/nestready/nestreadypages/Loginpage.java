@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
  * @author Jagadeeshwar
  *
  */
-public class TestLogin extends Testbase {
+public class Loginpage extends Testbase {
 
 	@BeforeClass
 	public void initialization() {
